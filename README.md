@@ -3,15 +3,7 @@
 
 ## How can I edit this code?
 
-There are several ways of editing your application.
 
-
-
-Simply visit the [(https://flatlogic.com/blog/full-stack-web-app-builder/#:~:text=Flatlogic%20helps%20startups%20and%20businesses,Web%20App%20Generator)] and start it .
-
-and also visit the google to learn about the code 
-
-Changes the code what you want to adit in it
 
 **Use your preferred IDE**
 
